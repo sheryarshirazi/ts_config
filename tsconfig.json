@@ -3,6 +3,7 @@
 		"target":"ES5",
 		"module": "amd",
 		"mapRoot": "map",
-		"sourceMap": true
+		"sourceMap": true,
+		"watch": true
 	}
 }
